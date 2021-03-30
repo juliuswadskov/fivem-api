@@ -1,0 +1,19 @@
+{
+  "name": "fivem-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raag2005/fivem-api.git"
+  },
+  "author": "Raag2005",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/raag2005/fivem-api/issues"
+  },
+  "homepage": "https://github.com/raag2005/fivem-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
