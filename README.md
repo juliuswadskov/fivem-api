@@ -14,5 +14,3 @@ FiveM({port: 30120, host: 'dedicated.raag2005.dk'}, (info, players) => {
   console.log(players);
 })
 ```
-
-link: **https://github.com/raag2005/fivem-api**
