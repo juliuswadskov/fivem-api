@@ -1,10 +1,10 @@
 # fivem-api til node js
 ## dependencis
-> request
+> request           
 > du skal bruge ES6
 
 ## data man kan få ud af det
-> Spiller antal
+> Spiller antal             
 > Resources
 
 ## exemple
