@@ -5,7 +5,7 @@
  * Man skal have ES6 for at bruge denne her fil!
  */
 
-// Eksemple
+// Eksempl
 // FiveM({port: 30120, host: 'dedicated.raag2005.dk'}, (info, players) => {
 //     console.log(info);
 //     console.log(players);
